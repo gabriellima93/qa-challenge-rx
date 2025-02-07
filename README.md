@@ -1,6 +1,6 @@
 # QA Challenge - Cypress Tests
 
-This repository contains a series of exercises to test your Cypress knowledge. You can access the exercises at [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+This repository contains a series of exercises to test your Cypress knowledge. You can access the exercises at [https://qa-challenge-rx.vercel.app/](https://qa-challenge-rx.vercel.app/)
 
 ## Instructions
 
@@ -15,7 +15,7 @@ This repository contains a series of exercises to test your Cypress knowledge. Y
    # Create cypress.config.js in your project root
    module.exports = {
      e2e: {
-       baseUrl: 'https://your-vercel-url.vercel.app'
+       baseUrl: 'https://qa-challenge-rx.vercel.app/'
      }
    }
    ```

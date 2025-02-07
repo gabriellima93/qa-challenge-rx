@@ -2,7 +2,7 @@ const { defineConfig } = require('cypress')
 
 module.exports = defineConfig({
   e2e: {
-    baseUrl: 'https://your-vercel-url.vercel.app',
+    baseUrl: 'https://qa-challenge-rx.vercel.app/',
     supportFile: false
   }
 }) 
